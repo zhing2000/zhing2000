@@ -22,13 +22,11 @@ In the cloned directory, locate the following file: otree/egochat
 
 Replacing the content or placement of code/init.py, code/welcome.html and code/chat.html.
 
-Instructions for autorunning
+Instructions for auto-running
 -----
 
 Our "autorun" program can only run on Microsoft Edge.
 
 The only step is locate the code/auto_experiment_formal03.py. Using
 
-‘’‘
 python auto_experiment_formal03.py run
-’‘’
